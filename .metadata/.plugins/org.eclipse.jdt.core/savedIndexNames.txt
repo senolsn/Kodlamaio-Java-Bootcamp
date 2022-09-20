@@ -1,4 +1,2 @@
 INDEX VERSION 1.131+C:\Users\senol\OneDrive\Desktop\Kodlamaio-Java-Bootcamp\.metadata\.plugins\org.eclipse.jdt.core
-1017227918.index
-953447478.index
 1865797976.index
